@@ -78,32 +78,6 @@
         "years": "January 2017 - September 2017",
         "description": "Work on Internally used software. participated in project build up."
       }
-    ],
-    "skills": [
-      {
-        "name": "JavaSript",
-        "level": "90%"
-      },
-      {
-        "name": "HTML",
-        "level": "100%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "NODE",
-        "level": "50%"
-      },
-      {
-        "name": "MATERIALIZE",
-        "level": "80%"
-      }
     ]
   },
   "portfolio": {
