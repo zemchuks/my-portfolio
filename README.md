@@ -1,3 +1,3 @@
-Bruno Ezemba Augustine
+Benson M.
 
-The Project was hosted on Netlify. [Check it out!](https://ezemba.netlify.app/)
+The Project was hosted on Netlify. [Check it out!](https://becamd.netlify.app/)
