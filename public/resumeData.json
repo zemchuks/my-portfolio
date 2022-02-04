@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Benson Madueke",
+    "description": "Software Engineer, Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "I'm a self-taught developer experienced at building web and mobile solutions with JavaScript, CSS, React and HTML. I'm a smart and creative professional, passionate about developing Tech solutions for the next billion users. I believe in excellence, teamwork, and collaboration. The sum of my development and problem-solving experience has been around building user-first, performant, and accessible web solutions in the real-estate, e-commerce, and fin-tech industries. My main tech stack is MERN but I also do PERN. I obtained my National Diploma in Computer Science from the Institute of Management and Technology, Enugu, Nigeria. I believe there's no problem without a solution. ",
+    "contactmessage": "Send me a message",
+    "email": "zemchuks@gmail.com",
+    "phone": "+234-8162451342",
+    "github": "https://github.com/zemchuks",
+    "project": "https://drive.google.com/file/d/1chIlqlCKLHTxdeFrrSTKVn9hBZXQvv3T/view",
+    "address": {
+      "street": "17a Ikoyi Rd",
+      "city": "Lagos",
+      "state": "Lagos State"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1A6XB7RX87sHQEK7f7vj80V4LpCMCGtaw/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/brunoEzemba.austin/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/bruno_austane",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bruno-ezemba-0bb302170/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/zemchuks",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills",
+    "education": [
+      {
+        "school": "Institute of Management and Technology, Enugu",
+        "degree": "National Diploma in Computer Science",
+        "graduated": "December 2017",
+        "description": "Obtained A NAtional Diploma In Computer Science. Graduated with a GPA of 2.9."
+      }
+    ],
+    "work": [
+      {
+        "company": "HNG Internship",
+        "title": "Front-end Intern",
+        "years": "August 2021 - Present"
+      },
+      {
+        "company": "ITScopes Limited",
+        "title": "Front-end Engineer",
+        "years": "June 2021 - Present",
+        "description":"Contract Software Engineer, Web Developer, Building E-commerce Applications with interactive UIs with React"
+      },
+      {
+        "company": "Zuri Team",
+        "title": "Front-end Intern",
+        "years": "March 2021 - June 2021"
+      },
+      {
+        "company": "Andela",
+        "title": "Internship Student",
+        "years": "January 2019 - July 2019",
+        "description": "Developed a bus transportation booking server that enables registered users to book a trip and a bus. This shows a variety of locations and buses to travel to and from with style. API: https://github.com/zemchuks/Way_Ferer"
+      },
+      {
+        "company": "World Gurus Tech",
+        "title": "Intern Trainee ",
+        "years": "January 2017 - September 2017",
+        "description": "Work on Internally used software. participated in project build up."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaSript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "NODE",
+        "level": "50%"
+      },
+      {
+        "name": "MATERIALIZE",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Records API",
+        "category": "Fetching data from API with patient records",
+        "image": "records.gif",
+        "url": "https://github.com/zemchuks/ENYE-Phase1"
+      },
+      {
+        "title": "GitHub Finder",
+        "category": "Searches for github users using GitHub API",
+        "image": "projects1.png",
+        "url": "https://github.com/zemchuks/Finder2"
+      },
+      {
+        "title": "Shopping Cart",
+        "category": "A shopping Cart website with React that has payment features",
+        "image": "project2.png",
+        "url": "https://github.com/zemchuks/shopping-cart"
+      },
+      {
+        "title": "Contact Keeper",
+        "category": "An online Storage of personal contact info that is secure",
+        "image": "project3.png",
+        "url": "https://github.com/zemchuks/contact-keeper-MERN"
+      }
+    ]
+  }
+}
