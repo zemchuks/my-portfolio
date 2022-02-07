@@ -3,7 +3,7 @@
     "name": "Benson Madueke",
     "description": "Software Engineer, Web Developer",
     "image": "profilepic.jpg",
-    "bio": "I'm a self-taught developer experienced at building web and mobile solutions with JavaScript, CSS, React and HTML. I'm a smart and creative professional, passionate about developing Tech solutions for the next billion users. I believe in excellence, teamwork, and collaboration. The sum of my development and problem-solving experience has been around building user-first, performant, and accessible web solutions in the real-estate, e-commerce, and fin-tech industries. My main tech stack is MERN but I also do PERN. I obtained my National Diploma in Computer Science from the Institute of Management and Technology, Enugu, Nigeria. I believe there's no problem without a solution. ",
+    "bio": "I'm a Frontend developer experienced at building web and mobile solutions with JavaScript, CSS, React and HTML. I'm a smart and creative professional, passionate about developing Tech solutions for the next billion users. I believe in excellence, teamwork, and collaboration. The sum of my development and problem-solving experience has been around building user-first, performant, and accessible web solutions in the real-estate, e-commerce, and fin-tech industries. My main tech stack is MERN but I also do PERN. I obtained my National Diploma in Computer Science from the Institute of Management and Technology, Enugu, Nigeria. ",
     "contactmessage": "Send me a message",
     "email": "zemchuks@gmail.com",
     "phone": "+234-8162451342",
@@ -59,7 +59,7 @@
         "company": "ITScopes Limited",
         "title": "Front-end Engineer",
         "years": "June 2021 - Present",
-        "description":"Contract Software Engineer, Web Developer, Building E-commerce Applications with interactive UIs with React"
+        "description": "Contract Software Engineer, Web Developer, Building E-commerce Applications with interactive UIs with React"
       },
       {
         "company": "Zuri Team",

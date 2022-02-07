@@ -16,7 +16,7 @@ const Header = ({ data }) => {
        })
     }
 
-    const listOfString=['Software Engineer','Front-End Developer', 'Full-Stack JavaScript Developer', 'Problem Solving Expert']
+    const listOfString=['Happy Frontend Engineer', 'Problem Solving Expert']
 
     return (
       <header id="home">
