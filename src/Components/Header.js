@@ -6,8 +6,6 @@ import 'animate.css/animate.min.css';
 const Header = ({ data }) => {
 
     if(data){
-       var project = data.projects;
-       var github = data.github;
       var name = data.name;
       var networks= data.social.map(network => {
          return <li key={network.name}>
@@ -36,14 +34,14 @@ const Header = ({ data }) => {
 
       <div className="row banner">
       
-         <div style={{ fontSize: 30, color: '#ffffff'}} className="banner-text animate__animated animate__bounceIn">
+         <div style={{ fontSize: 25, color: '#ffffff'}} className="banner-text animate__animated animate__bounceIn">
             <img className='responsive-headline' src='/images/hng-brand-logo.png' alt='HNG Brand Logo' />
-            <h1 className="responsive-headline">{name}</h1>
+            <h1 className="responsive-headline">Hi, I'm {name}</h1>
             <ReactJsTyping StringList={listOfString} speed={900}/>
             <hr />
             <ul className="social">
-               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
-               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Resume</a>
+               <a href="https://github.com/zemchuks" className="button btn project-btn"><i className="fa fa-book"></i>Projects</a>
+               <a href="https://github.com/zemchuks/my-portfolio" className="button btn github-btn"><i className="fa fa-github"></i>Resume</a>
 
                <div className="row">
                <div className="twelve columns">
