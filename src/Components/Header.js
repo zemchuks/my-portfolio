@@ -40,8 +40,8 @@ const Header = ({ data }) => {
             <ReactJsTyping StringList={listOfString} speed={900}/>
             <hr />
             <ul className="social">
-               <a href="https://github.com/zemchuks" className="button btn project-btn"><i className="fa fa-book"></i>Projects</a>
-               <a href="https://github.com/zemchuks/my-portfolio" className="button btn github-btn"><i className="fa fa-github"></i>Resume</a>
+               <a href="https://github.com/zemchuks/my-portfolio" className="button btn project-btn"><i className="fa fa-book"></i>Resume Project</a>
+               <a href="https://github.com/zemchuks" className="button btn github-btn"><i className="fa fa-github"></i>My GitHub</a>
 
                <div className="row">
                <div className="twelve columns">
