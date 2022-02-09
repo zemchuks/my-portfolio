@@ -18,16 +18,6 @@
     "resumedownload": "https://drive.google.com/file/d/1RMYoaqm4RgtWXDKPs2GfotE4KcG3gtv6/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/benson-madueke",
         "className": "fa fa-linkedin"
