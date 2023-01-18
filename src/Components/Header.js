@@ -1,5 +1,5 @@
 import React from 'react';
-import ParticlesBg  from "particles-bg";
+// import ParticlesBg  from "particles-bg";
 import ReactJsTyping from 'reactjs-typing-effect';
 import 'animate.css/animate.min.css';
 
@@ -18,7 +18,7 @@ const Header = ({ data }) => {
 
     return (
       <header id="home">
-      <ParticlesBg type="thick" bg={true} />
+      {/* <ParticlesBg type="thick" bg={true} /> */}
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -35,13 +35,12 @@ const Header = ({ data }) => {
       <div className="row banner">
       
          <div style={{ fontSize: 25, color: '#ffffff'}} className="banner-text animate__animated animate__bounceIn">
-            <img className='responsive-headline' src='/images/hng-brand-logo.png' alt='HNG Brand Logo' />
             <h1 className="responsive-headline">Hi, I'm {name}</h1>
             <ReactJsTyping StringList={listOfString} speed={900}/>
             <hr />
             <ul className="social">
                <a href="https://github.com/zemchuks/my-portfolio" className="button btn project-btn"><i className="fa fa-book"></i>Resume Project</a>
-               <a href="https://github.com/zemchuks" className="button btn github-btn"><i className="fa fa-github"></i>My GitHub</a>
+               <a href="/" className="button btn github-btn"><i className="fa fa-github"></i>My GitHub</a>
 
                <div className="row">
                <div className="twelve columns">

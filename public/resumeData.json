@@ -3,29 +3,23 @@
     "name": "Benson Madueke",
     "description": "Software Engineer, Web Developer",
     "image": "profilepic.jpg",
-    "bio": "I'm a Frontend developer experienced at building web and mobile solutions with JavaScript, CSS, React and HTML. I'm a smart and creative professional, passionate about developing Tech solutions for the next billion users. I believe in excellence, teamwork, and collaboration. The sum of my development and problem-solving experience has been around building user-first, performant, and accessible web solutions in the real-estate, e-commerce, and fin-tech industries. My main tech stack is MERN but I also do PERN. I obtained my National Diploma in Computer Science from the Institute of Management and Technology, Enugu, Nigeria. ",
+    "bio": "I'm a Frontend developer",
     "contactmessage": "Send me a message",
-    "email": "zemchuks@gmail.com",
-    "phone": "+234-8162451342",
-    "github": "https://github.com/zemchuks",
-    "project": "https://drive.google.com/file/d/1chIlqlCKLHTxdeFrrSTKVn9hBZXQvv3T/view",
+    "email": "zemchucks@gmail.com",
+    "phone": "+234-7045429678",
+    "project": "https://docs.google.com/document/d/1Lf3Hkgd-kgdT1ZqXmJhTS1pb-BKaMUKTmVmalw3uJWQ/edit?usp=share_link",
     "address": {
       "street": "17a Ikoyi Rd",
       "city": "Lagos",
       "state": "Lagos State"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1kFdSU6fyQbtQQjn70CrbsFqoHo_GMZ5L/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1Lf3Hkgd-kgdT1ZqXmJhTS1pb-BKaMUKTmVmalw3uJWQ/edit?usp=share_link",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/benson-madueke",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/zemchuks",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -33,10 +27,10 @@
     "skillmessage": "Skills",
     "education": [
       {
-        "school": "Institute of Management and Technology, Enugu",
-        "degree": "National Diploma in Computer Science",
-        "graduated": "December 2017",
-        "description": "Obtained A NAtional Diploma In Computer Science. Graduated with a GPA of 2.9."
+        "school": "Yaba College of Education, Yaba",
+        "degree": "Higher National Diploma in Computer Science",
+        
+        "description": "Studying for a Higher National Diploma In Computer Science"
       }
     ],
     "work": [
@@ -46,21 +40,9 @@
         "years": "August 2021 - Present"
       },
       {
-        "company": "ITScopes Limited",
-        "title": "Front-end Engineer",
-        "years": "June 2021 - Present",
-        "description": "Contract Software Engineer, Web Developer, Building E-commerce Applications with interactive UIs with React"
-      },
-      {
         "company": "Zuri Team",
         "title": "Front-end Intern",
         "years": "March 2021 - June 2021"
-      },
-      {
-        "company": "Andela",
-        "title": "Internship Student",
-        "years": "January 2019 - July 2019",
-        "description": "Developed a bus transportation booking server that enables registered users to book a trip and a bus. This shows a variety of locations and buses to travel to and from with style. API: https://github.com/zemchuks/Way_Ferer"
       },
       {
         "company": "World Gurus Tech",

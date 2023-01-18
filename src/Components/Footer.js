@@ -21,7 +21,7 @@ const Footer = ({ data }) => {
 
            <ul className="copyright" style={{ color: 'white'}}>
               <li>&copy; Copyright 2021 Benson</li>
-              <li>Design by <a title="Styleshout" href="https://www.linkedin.com/in/bruno-ezemba-0bb302170/" style={{ color: 'white'}}>Benson Madueke</a></li>
+              <li>Design by <a title="Styleshout" href="https://www.linkedin.com/in/benson-madueke" style={{ color: 'white'}}>Benson Madueke</a></li>
            </ul>
 
         </div>
