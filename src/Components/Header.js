@@ -1,6 +1,6 @@
 import React from 'react';
 // import ParticlesBg  from "particles-bg";
-import ReactJsTyping from 'reactjs-typing-effect';
+// import ReactJsTyping from 'reactjs-typing-effect';
 import 'animate.css/animate.min.css';
 
 const Header = ({ data }) => {
@@ -14,7 +14,7 @@ const Header = ({ data }) => {
        })
     }
 
-    const listOfString=['Happy Frontend Engineer', 'Problem Solving Expert']
+   //  const listOfString=['Happy Frontend Engineer', 'Problem Solving Expert']
 
     return (
       <header id="home">
@@ -36,17 +36,15 @@ const Header = ({ data }) => {
       
          <div style={{ fontSize: 25, color: '#ffffff'}} className="banner-text animate__animated animate__bounceIn">
             <h1 className="responsive-headline">Hi, I'm {name}</h1>
-            <ReactJsTyping StringList={listOfString} speed={900}/>
+            {/* <ReactJsTyping StringList={listOfString} speed={900}/> */}
             <hr />
             <ul className="social">
-               <a href="https://github.com/zemchuks/my-portfolio" className="button btn project-btn"><i className="fa fa-book"></i>Resume Project</a>
-               <a href="/" className="button btn github-btn"><i className="fa fa-github"></i>My GitHub</a>
+              
+               <a href="https://www.linkedin.com/in/benson-madueke" className="button btn github-btn"><i className="fa fa-github"></i>My LinkedIn</a>
 
                <div className="row">
                <div className="twelve columns">
-               <ul className="social-links">
-                  {networks}
-               </ul>
+             
                </div>
             </div>
             </ul>

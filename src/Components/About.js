@@ -5,7 +5,7 @@ const About = ({ data }) => {
 
     if(data){
       var name = data.name;
-      var ben = "images/"+ data.image;
+      var benj = "images/"+ data.image;
       var bio = data.bio;
       var street = data.address.street;
       var city = data.address.city;
@@ -21,7 +21,7 @@ const About = ({ data }) => {
       <section data-aos="fade-right" data-aos-duration="1000" id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic" src={ben} alt="Benson" />
+            <img className="profile-pic" src={benj} alt="Benson" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>

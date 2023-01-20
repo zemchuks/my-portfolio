@@ -1,24 +1,24 @@
 {
   "main": {
-    "name": "Benson Madueke",
+    "name": "Michael Chidiebere",
     "description": "Software Engineer, Web Developer",
-    "image": "profilepic.jpg",
+    "image": "ben.jpg",
     "bio": "I'm a Frontend developer",
     "contactmessage": "Send me a message",
     "email": "zemchucks@gmail.com",
     "phone": "+234-7045429678",
-    "project": "https://docs.google.com/document/d/1Lf3Hkgd-kgdT1ZqXmJhTS1pb-BKaMUKTmVmalw3uJWQ/edit?usp=share_link",
+    "project": "https://drive.google.com/file/d/1KkRUQT2dc9F3BcruodBoaC9RSwGg6FnE/view?usp=sharing",
     "address": {
-      "street": "17a Ikoyi Rd",
+      "street": "6 ilelaboye street, ojo, lagos",
       "city": "Lagos",
       "state": "Lagos State"
     },
     "website": "",
-    "resumedownload": "https://docs.google.com/document/d/1Lf3Hkgd-kgdT1ZqXmJhTS1pb-BKaMUKTmVmalw3uJWQ/edit?usp=share_link",
+    "resumedownload": "https://drive.google.com/file/d/1KkRUQT2dc9F3BcruodBoaC9RSwGg6FnE/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/benson-madueke",
+        "url": "https://www.linkedin.com/in/michael-chidiebere",
         "className": "fa fa-linkedin"
       }
     ]
@@ -35,9 +35,9 @@
     ],
     "work": [
       {
-        "company": "HNG Internship",
-        "title": "Front-end Intern",
-        "years": "August 2021 - Present"
+        "company": "Zemchucks Limited",
+        "title": "Customer support",
+        "years": "August 2022 - Present"
       },
       {
         "company": "Zuri Team",
@@ -54,30 +54,7 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Records API",
-        "category": "Fetching data from API with patient records",
-        "image": "records.gif",
-        "url": "https://github.com/zemchuks/ENYE-Phase1"
-      },
-      {
-        "title": "GitHub Finder",
-        "category": "Searches for github users using GitHub API",
-        "image": "projects1.png",
-        "url": "https://github.com/zemchuks/Finder2"
-      },
-      {
-        "title": "Shopping Cart",
-        "category": "A shopping Cart website with React that has payment features",
-        "image": "project2.png",
-        "url": "https://github.com/zemchuks/shopping-cart"
-      },
-      {
-        "title": "Contact Keeper",
-        "category": "An online Storage of personal contact info that is secure",
-        "image": "project3.png",
-        "url": "https://github.com/zemchuks/contact-keeper-MERN"
-      }
+   
     ]
   }
 }
