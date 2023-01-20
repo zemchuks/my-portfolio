@@ -7,11 +7,11 @@ const Header = ({ data }) => {
 
     if(data){
       var name = data.name;
-      var networks= data.social.map(network => {
-         return <li key={network.name}>
-           <a href={network.url}><i className={network.className}></i></a>
-           </li>
-       })
+      // var networks= data.social.map(network => {
+      //    return <li key={network.name}>
+      //      <a href={network.url}><i className={network.className}></i></a>
+      //      </li>
+      //  })
     }
 
    //  const listOfString=['Happy Frontend Engineer', 'Problem Solving Expert']
